@@ -31,6 +31,9 @@ This is a Flappy Bird-style game built using Unity. The player controls a bird t
 
 * Press Restart to play again.
 
-  
+
+https://github.com/user-attachments/assets/77df2448-c4ad-4421-bfb4-c4f332d4cc96
+
+
 
   
